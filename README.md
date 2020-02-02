@@ -6,7 +6,7 @@ EasyPay个人免签收款支付系统,完全免费,资金直接到达本人账�
 
 > 本系统已经升级V2.0了，将jpa换成了mybatis-plus，查询更快，操作更简单，更是有详细的文档可以参阅
 点击EasyPay官网地址可以获取源码：[点此下载](https://easypay.goodqp.com/)
-
+  
 ### 本系统基于Java开发 新手请先百度Spring Boot教程
 
 #### 前端所用技术
