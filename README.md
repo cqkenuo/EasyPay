@@ -2,10 +2,10 @@
 EasyPay个人免签收款支付系统,完全免费,资金直接到达本人账号,支持支付宝,微信,QQ,云闪付  
 无需备案,无需签约,无需挂机监控APP,无需插件,无需第三方支付SDK,无需营业执照身份证,只需收款码,搞定支付流程 
 现已支持移动端支付  
-体验链接地址：[点此测试](https://easypay.goodqp.com/)
+体验链接地址：[点此测试](http://easypay.goodqp.com/)
 
 > 本系统已经升级V2.0了，将jpa换成了mybatis-plus，查询更快，操作更简单，更是有详细的文档可以参阅 
-点击EasyPay官网地址可以获取源码：[点此下载](https://easypay.goodqp.com/)
+点击EasyPay官网地址可以获取源码：[点此下载](http://easypay.goodqp.com/)
   
 ### 本系统基于Java开发 新手请先百度Spring Boot教程
 
@@ -172,4 +172,4 @@ Payjs （疑使用微信小微商户）
 由于xpay天生“人工智障”检测方案，个人收款使用无须担心风控问题
 结论：个人收款较少、见不得人的支付业务推荐使用
 
-## 点击EasyPay官网地址可以获取源码：[点此下载](https://easypay.goodqp.com/)
+## 点击EasyPay官网地址可以获取源码：[点此下载](http://easypay.goodqp.com/)
