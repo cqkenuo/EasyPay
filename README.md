@@ -21,7 +21,7 @@ SpringMVC
 Spring Data Jpa 
 MySQL  
 Spring Data Redis  
-Druid  
+Druid   
 Thymeleaf：模版引擎  
 Swagger2  
 Maven  
